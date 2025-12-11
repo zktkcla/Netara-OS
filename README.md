@@ -628,6 +628,9 @@
 
 ## Teks help:
     If you have questions, encounter issues, or want to contribute to Netara OS development, visit our GitHub repository. Netara OS is an open-source security distribution built for penetration testers and security researchers. Find documentation, report bugs, request features, or join the development at: https://github.com/zktkcla/Netara-OS
+    
+## Teks web: 
+`hapus bagian youtube dan netflix sama ganti gambar juga`
 
 # modifikasi background pilihan awal live os, dilakukan diluar cubic, lewat terminal host
 
