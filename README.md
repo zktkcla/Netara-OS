@@ -1,4 +1,4 @@
-# Netara-OS
+# Netara OS
 
 <div align="center">
   <img src="netara.svg">
