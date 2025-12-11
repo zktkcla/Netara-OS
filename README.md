@@ -613,7 +613,7 @@
     cp helpNe.png softwareNe.png webNe.png welcomeNe.png /usr/share/ubiquity-slideshow/slides/screenshots
 ## Copy file ke `/usr/share/ubiquity-slideshow/slides/icons`
     cp nmap.png scapy.png wireshark.png /usr/share/ubiquity-slideshow/slides/icons
-## Pindah direktori /slides
+## Pindah direktori `/slides`
     cd /usr/share/ubiquity-slideshow/slides/
 ## Hapus 4 file ini
     rm office.html customize.html photos.html windows.html
