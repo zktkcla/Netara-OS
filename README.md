@@ -636,7 +636,7 @@
     cp nah.png ~/Downloads/remaster/custom-disk/isolinux
 ## Pindah ke direktori `/isolinux`
     cd ~/Downloads/remaster/custom-disk/isolinux
-## Overwirte `splash.png` dengan  `nah.png`
+## Overwrite `splash.png` dengan  `nah.png`
     mv nah.png splash.png
 ## Ubah permission menjadi `644` untuk `splash.png`
     sudo chmod 644 splash.png
