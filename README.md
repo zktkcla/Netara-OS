@@ -634,7 +634,7 @@
 ## Ke direktori /Netara-OS-main
 ## Copy `nah.png` ke `/isolinux`
     cp nah.png ~/Downloads/remaster/custom-disk/isolinux
-## Pindah ke direktori /isolinux
+## Pindah ke direktori `/isolinux`
     cd ~/Downloads/remaster/custom-disk/isolinux
 ## Overwirte `splash.png` dengan  `nah.png`
     mv nah.png splash.png
@@ -651,5 +651,5 @@
     pti=on spectre_v2=retpoline slab_nomerge
 
 # Saat berada di grub.cfg dan live.cfg cubic
-    linux mint --> Netara OS
+    ubah `Linux Mint` Mmenjadi `Netara OS`
 
