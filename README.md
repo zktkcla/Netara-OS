@@ -15,14 +15,14 @@
     apt install wireshark nmap ncat python3-impacket aircrack-ng python3-scapy snort bmon hping3 bettercap iftop nikto lynis -y
 
 # Mematikan Layanan yang tidak perlu
-## 1. Bluetooth
+### 1. Bluetooth
     systemctl disable bluetooth.service 
 
-## 2. Printing
+### 2. Printing
     systemctl disable cups.service 
     systemctl disable cups-browsed.service 
 
-## 3. Zero-config
+### 3. Zero-config
     systemctl disable avahi-daemon.service 
     systemctl disable avahi-daemon.socket
 
@@ -618,7 +618,7 @@
 ## Hapus 4 file ini
     rm office.html customize.html photos.html windows.html
 # Pengeditan .html
-`welcome.html`, `software.html` (jadi aplikasi yang diinstal), `web.html` (ilangin netflix sama youtube), `help.html`, chat.html ubah kata `Linux Mint` menjadi `Netara OS`
+`welcome.html`, `software.html` (jadi aplikasi yang diinstal), `web.html` (ilangin netflix sama youtube), `help.html`, `chat.html` ubah kata `Linux Mint` menjadi `Netara OS`
 
 ## Teks welcome: 
     Welcome and thank you for choosing Netara OS. This slideshow will show you around while the system is being installed on your computer.
